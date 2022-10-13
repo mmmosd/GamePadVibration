@@ -1,0 +1,19 @@
+/values (min = 0, max = 100)
+LT_30/ LT vibration value
+RT_15/ RT vibration value
+LB_0/ LB vibration value
+RB_0/ RB vibration value
+LTH_0/
+RTH_0/
+A_30/ A vibration value
+B_0/ B vibration value
+X_30/ X vibration value
+Y_0/ Y vibration value
+U_0/
+D_0/
+L_0/
+R_0/
+TLX_50/ TLX vibration value
+TRX_50/ TRX vibration value
+TLY_0/ TLY vibration value
+TRY_0/ TRY vibration value
