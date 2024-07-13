@@ -1,1 +1,1 @@
-# GamePadVibrator
+# GamePadVibration
